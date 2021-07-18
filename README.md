@@ -1,1 +1,1 @@
-# rizvi5a-react-portfolio
+# react-portfolio
