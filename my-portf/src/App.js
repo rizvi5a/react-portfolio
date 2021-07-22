@@ -1,4 +1,4 @@
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {BrowserRouter as Router, Route} from 'react-router-dom';
 
 import './App.css';
 import About from "./components/About";
@@ -26,14 +26,12 @@ function App() {
         <Route path="/Resume">
               <Resume/>
         </Route>
-
-
-        </Router>
-        
-        <Footer/>
-       
-      
+             
+             </Router>
+             <Footer/>
     </div>
+
+  
   );
 }
 

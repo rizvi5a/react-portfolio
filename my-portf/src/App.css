@@ -73,8 +73,8 @@ a {
   color: #61dafb;
 }
 .Footer{
-  position: absolute;
-  top:80%;
+  position:fixed;
+  border-bottom:95%;
   left:45%
 }
 @keyframes App-logo-spin {

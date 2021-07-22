@@ -8,8 +8,8 @@ class About extends React.Component {
                 </h3>
                 <div className="AboutImageDiv">
                     <img src="images/Syed-Rizvi.png" className="AboutImage" alt="syed-Pic" />
-                </div>
-                <div>
+               </div>
+                <div  >
                 <p>
         I am a trained Full Stack Web Developer and a Process Engineering Consultant. I may change my profession to become a full time Web Developer, depending on the
         opportunities available to me in the future. I, however, intend to leverage my engineering background to develop or manage web applications in engineering or 

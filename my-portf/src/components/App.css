@@ -1,5 +1,15 @@
+:root {
+  --primary: rgba(68, 88, 119, 1);
+  --secondary: rgba(146, 204, 206, 1);
+  --tertiary: rgb(17, 19, 17);
+  --dark: rgb(75, 79, 100);
+  --light: rgba(238, 238, 247, 1);
+}
+
+
 .App {
   text-align: center;
+
   
 }
 
@@ -41,13 +51,17 @@ a {
   height:50px;
 }
 .About {
-  position:center;
+   position:center;
   left:0px;
-  font-size: medium;
+  font-size: medium; 
   
-  background-color: cyan;
  
-}
+    
+  }
+
+
+ 
+
 .Resume {
   position:relative;
   left:0px;
@@ -73,8 +87,8 @@ a {
   color: #61dafb;
 }
 .Footer{
-  position: absolute;
-  top:80%;
+  position:static;
+  top:95%;
   left:45%
 }
 @keyframes App-logo-spin {
