@@ -1,4 +1,5 @@
 import React from "react";
+import resume from '../images/Syed-Rizvi-Resume.pdf'
 class Resume extends React.Component {
     render() {
         return (
@@ -27,7 +28,7 @@ class Resume extends React.Component {
                 <li>MongoDB</li>
                 
                 <li>
-                <a href='./images/syed-Rizvi-Resume.pdf'> Resume</a>
+                <a href={resume}> Resume</a>
                 </li>
                 
         </ul>
