@@ -1,19 +1,19 @@
-import React from "react";
-class Header extends React.Component {
-    render() {
-        return (
-            <div className="App-header">	
-            
-        <h3>
-              <a href='/about'>About</a> | 
-              <a href='/contact'> Contact</a> | 
-              <a href='/portfolio'> Portfolio</a> | 
-              <a href='/Resume'> Resume</a>
-              </h3>
-              <hr/>
-            </div>
-        )
-    }
 
+
+import React from 'react';
+import '../App.css';
+
+function Header() {
+    return (
+        <header>
+            <div class="hero hero-head flex-center">
+                <div class="center hero-text">
+                    <h1 class="hero-title">Syed Rizvi</h1>
+                    <h3 class="hero-footer">Web Developer and Process Simulation Consultant</h3>
+                </div>
+            </div>
+        </header>
+    )
 }
+
 export default Header;

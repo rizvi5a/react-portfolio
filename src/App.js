@@ -1,37 +1,17 @@
-import {BrowserRouter as Router, Route} from 'react-router-dom';
+import React from 'react';
+import Header from './components/Header.js';
+import Container from './components/Container';
 
-import './App.css';
-import About from "./components/About";
-import Contact from "./components/Contact";
-import Portfolio from "./components/Portfolio";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import Resume from "./components/Resume";
+import Footer from './components/Footer';
+
 function App() {
   return (
     <div className="App">
-     
-      <Header/>
-      <Router>
-        <Route path="/about">
-              <About/>
-        </Route>
-        
-        <Route path="/contact">
-              <Contact/>
-        </Route>
-        <Route path="/portfolio">
-              <Portfolio/>
-        </Route>
-        <Route path="/Resume">
-              <Resume/>
-        </Route>
-             
-             </Router>
-             <Footer/>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"></link>
+      <Header />
+      <Container />
+      <Footer />
     </div>
-
-  
   );
 }
 

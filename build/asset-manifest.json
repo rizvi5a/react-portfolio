@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.c3eb70d6.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.84b19486.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.84b19486.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.db838aaf.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.db838aaf.js.map",
+    "static/css/2.e43d3303.chunk.css": "/react-portfolio/static/css/2.e43d3303.chunk.css",
+    "static/js/2.73855a0f.chunk.js": "/react-portfolio/static/js/2.73855a0f.chunk.js",
+    "static/js/2.73855a0f.chunk.js.map": "/react-portfolio/static/js/2.73855a0f.chunk.js.map",
+    "static/js/3.4d54159c.chunk.js": "/react-portfolio/static/js/3.4d54159c.chunk.js",
+    "static/js/3.4d54159c.chunk.js.map": "/react-portfolio/static/js/3.4d54159c.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.e43d3303.chunk.css.map": "/react-portfolio/static/css/2.e43d3303.chunk.css.map",
+    "static/css/main.c3eb70d6.chunk.css.map": "/react-portfolio/static/css/main.c3eb70d6.chunk.css.map",
+    "static/js/2.73855a0f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.73855a0f.chunk.js.LICENSE.txt",
+    "static/media/Code-Quiz.06777064.png": "/react-portfolio/static/media/Code-Quiz.06777064.png",
+    "static/media/Note-Taker.4d6a8ea9.png": "/react-portfolio/static/media/Note-Taker.4d6a8ea9.png",
+    "static/media/Password-Generator.e5d48a9b.png": "/react-portfolio/static/media/Password-Generator.e5d48a9b.png",
+    "static/media/Project-1.a12ab4a3.png": "/react-portfolio/static/media/Project-1.a12ab4a3.png",
+    "static/media/Syed-Rizvi-Resume.8582e865.pdf": "/react-portfolio/static/media/Syed-Rizvi-Resume.8582e865.pdf",
+    "static/media/Syed-Rizvi.6c45be36.png": "/react-portfolio/static/media/Syed-Rizvi.6c45be36.png",
+    "static/media/Workout-Traker.dfaa5927.png": "/react-portfolio/static/media/Workout-Traker.dfaa5927.png",
+    "static/media/project-2.ba255438.png": "/react-portfolio/static/media/project-2.ba255438.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db838aaf.js",
+    "static/css/2.e43d3303.chunk.css",
+    "static/js/2.73855a0f.chunk.js",
+    "static/css/main.c3eb70d6.chunk.css",
+    "static/js/main.84b19486.chunk.js"
+  ]
+}
